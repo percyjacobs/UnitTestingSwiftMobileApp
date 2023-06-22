@@ -17,6 +17,7 @@
 		2F777A952A41146700CF17F8 /* PhotoAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F777A942A41146700CF17F8 /* PhotoAppUITestsLaunchTests.swift */; };
 		2FCBDE9A2A422CF200585EE5 /* SignupFormModelValidatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FCBDE992A422CF200585EE5 /* SignupFormModelValidatorTests.swift */; };
 		2FCBDE9E2A4237E000585EE5 /* SignupFormModelValidator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FCBDE9D2A4237E000585EE5 /* SignupFormModelValidator.swift */; };
+		2FEF1F692A436B6B002B44EE /* SignupConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FEF1F682A436B6B002B44EE /* SignupConstants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		2F777A942A41146700CF17F8 /* PhotoAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		2FCBDE992A422CF200585EE5 /* SignupFormModelValidatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignupFormModelValidatorTests.swift; sourceTree = "<group>"; };
 		2FCBDE9D2A4237E000585EE5 /* SignupFormModelValidator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignupFormModelValidator.swift; sourceTree = "<group>"; };
+		2FEF1F682A436B6B002B44EE /* SignupConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignupConstants.swift; sourceTree = "<group>"; };
 		2FFC1BC02A41234800A39CFE /* PhotoAppTEST.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = PhotoAppTEST.xctestplan; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -111,6 +113,7 @@
 				2F777A7C2A41146700CF17F8 /* LaunchScreen.storyboard */,
 				2F777A7F2A41146700CF17F8 /* Info.plist */,
 				2FCBDE9D2A4237E000585EE5 /* SignupFormModelValidator.swift */,
+				2FEF1F682A436B6B002B44EE /* SignupConstants.swift */,
 			);
 			path = PhotoApp;
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 				2F777A762A41146600CF17F8 /* ViewController.swift in Sources */,
 				2F777A722A41146600CF17F8 /* AppDelegate.swift in Sources */,
 				2FCBDE9E2A4237E000585EE5 /* SignupFormModelValidator.swift in Sources */,
+				2FEF1F692A436B6B002B44EE /* SignupConstants.swift in Sources */,
 				2F777A742A41146600CF17F8 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
